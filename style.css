@@ -35,3 +35,8 @@ ul li {
 .etiqueta{
     background-color: blue;
 }
+a {
+    display:flex ;
+    text-align: center;
+    
+}
