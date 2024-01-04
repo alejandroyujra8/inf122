@@ -1,2 +1,3 @@
 NOMBRE: Alejandro Andres Yujra Paye
 MATERIA: INF-122
+COLOR FAVORITO: #000000
