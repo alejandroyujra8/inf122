@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 import '../styles/cuadro.css';
 
-function Cuadro({ valor, funcion }) {
+function Cuadro({ valor }) {
     return (
-        <button className="cuadro" onClick={funcion}>
+        <button className="cuadro">
             {valor}
         </button>
     );

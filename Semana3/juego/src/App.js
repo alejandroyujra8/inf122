@@ -1,13 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Tablero from './components/Tablero';
-import Cuadro from './components/Cuadro';
+import TableroB from './components/TableroB';
+import TableroC from './components/TableroC';
+import TableroD from './components/TableroD';
+import TableroE from './components/TableroE';
+import Juego from './components/Juego';
+import JuegoA from './components/JuegoA';
 
 function App() {
+
+
+
   return (
-       <div className='Tablero'>
-          <Tablero/>
-       </div> 
+    <div className="App">
+
+      {/* <Tablero />
+      <TableroB />
+      <TableroE />
+      <Juego />*/}
+      <JuegoA />
+    </div>
   );
 }
 
